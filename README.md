@@ -6,10 +6,10 @@ Repository contains builds for each ABI: _x86, x86_64, armeabi-v7a, arm64-v8a_.
 
 ### Installing
 1. Download the appropriate version of stressapptest suitable for the architecture of the device under test.
-   - x86
-   - x86_64
-   - armeabi-v7a
-   - arm64-v8a
+   - [x86](https://github.com/kirillNay/android-stressapptest-builds/tree/master/x86)
+   - [x86_64](https://github.com/kirillNay/android-stressapptest-builds/tree/master/x86_64)
+   - [armeabi-v7a](https://github.com/kirillNay/android-stressapptest-builds/tree/master/armeabi-v7a)
+   - [arm64-v8a](https://github.com/kirillNay/android-stressapptest-builds/tree/master/arm64-v8a)
 
    To find out the architecture of your device run the following command:
    ```
